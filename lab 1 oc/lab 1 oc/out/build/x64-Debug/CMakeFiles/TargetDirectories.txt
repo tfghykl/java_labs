@@ -1,0 +1,5 @@
+D:/лапша ++/lab 1 oc/lab 1 oc/out/build/x64-Debug/CMakeFiles/Creator.dir
+D:/лапша ++/lab 1 oc/lab 1 oc/out/build/x64-Debug/CMakeFiles/Reporter.dir
+D:/лапша ++/lab 1 oc/lab 1 oc/out/build/x64-Debug/CMakeFiles/Main.dir
+D:/лапша ++/lab 1 oc/lab 1 oc/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/лапша ++/lab 1 oc/lab 1 oc/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

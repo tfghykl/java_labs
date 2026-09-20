@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  LINK : не найден или не выполнена сборка D:\лапша ++\lab 1 oc\x64\Debug\lab 1 oc.exe при последней инкрементной компоновке; выполняется полная компоновка
+Reporter.obj : error LNK2005: main уже определен в Creator.obj
+Main.obj : error LNK2005: main уже определен в Creator.obj
+D:\лапша ++\lab 1 oc\x64\Debug\lab 1 oc.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
